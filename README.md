@@ -1,6 +1,6 @@
 # The 24th International Conference on Artificial Intelligence,2022 the World Congress in Computer Science, Computer Engineering, & Applied Computing
 # Springer Nature Transactions on Computational Science & Computational Intelligence(will be published) 
-# Brain tumor classification on MRI in light of molecular markers
+# Brain Tumor Classification on MRI in Light of Molecular Markers
 Jun Liu1,2, Geng Yuan2, Wenbin Zhang3,Xue Lin2, XiaoLin Xu2, Yanzhi Wang2 
 
 1Robotics Institute, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, USA
