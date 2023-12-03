@@ -1,5 +1,5 @@
 # The 24th International Conference on Artificial Intelligence,2022 the World Congress in Computer Science, Computer Engineering, & Applied Computing
-# Springer Nature Transactions on Computational Science & Computational Intelligence
+# Springer Nature Transactions on Computational Science & Computational Intelligence(will be published) 
 # A-novel-CNN-for-Low-Grade-Gliomas-classification-on-MRI
 Jun Liu1,2, Geng Yuan2, Wenbin Zhang3,Xue Lin2, XiaoLin Xu2, Yanzhi Wang2 
 1Robotics Institute, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, USA
