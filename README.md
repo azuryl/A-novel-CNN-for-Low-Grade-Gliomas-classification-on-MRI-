@@ -2,6 +2,7 @@
 # Springer Nature Transactions on Computational Science & Computational Intelligence(will be published) 
 # A-novel-CNN-for-Low-Grade-Gliomas-classification-on-MRI
 Jun Liu1,2, Geng Yuan2, Wenbin Zhang3,Xue Lin2, XiaoLin Xu2, Yanzhi Wang2 
+
 1Robotics Institute, School of Computer Science, Carnegie Mellon University, Pittsburgh, PA, USA
 2 Department of Electrical & Computer Engineering, College of Engineering, Northeastern University, Boston, MA, USA
 3 University of Maryland, Baltimore County, MD USA
