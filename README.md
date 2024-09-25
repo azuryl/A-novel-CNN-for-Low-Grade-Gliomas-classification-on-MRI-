@@ -1,5 +1,5 @@
 # The 24th International Conference on Artificial Intelligence,2022 the World Congress in Computer Science, Computer Engineering, & Applied Computing
-# Springer Nature Transactions on Computational Science & Computational Intelligence(will be published) 
+# Springer Nature Transactions on Computational Science & Computational Intelligence(will be published) https://american-cse.org/csce2022/publisher
 # Brain Tumor Classification on MRI in Light of Molecular Markers
 Jun Liu1,2, Geng Yuan2, Wenbin Zhang3,Xue Lin2, XiaoLin Xu2, Yanzhi Wang2 
 
